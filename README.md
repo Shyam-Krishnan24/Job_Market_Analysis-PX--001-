@@ -6,10 +6,6 @@ This project focuses on analyzing the **global job market** to understand **sala
 
 The job market contains large amounts of scattered information about job roles, salaries, skills, and locations. It is difficult to identify **which jobs are in demand, which countries offer more opportunities, and which roles provide better salaries** without proper analysis. This project addresses this problem by organizing and analyzing job market data to extract useful insights.
 
-#### Why This Project Was Chosen
-
-This project was chosen to gain practical experience in **data analysis using Excel** and to understand real-world job market trends. Since the dataset contains information about job titles, salaries, countries, and skills, it provides a good opportunity to explore how data analysis can help in making career decisions. The project also helps in understanding how salary varies across roles, experience levels, and work types such as remote and non-remote jobs.
-
 #### Dataset Description
 
 The dataset contains **32,673 job postings with 16 variables**, covering **111 countries and multiple job roles**. The dataset includes important fields such as job title, salary, country, skills required, job platform, and job schedule type. These variables were used to analyze job demand, salary distribution, and geographical trends.
