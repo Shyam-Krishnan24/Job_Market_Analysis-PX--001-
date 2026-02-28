@@ -4,8 +4,7 @@ This project focuses on analyzing the **global job market** to understand **sala
 
 #### Problem Statement
 
-I chose this problem statement because many of my friends have not yet decided which domain or role they want to pursue. Also, many juniors are not aware of the different career options available, so this project was chosen to help them understand and explore possible roles.
-
+I chose this real-world problem statement after observing that many of my friends have not yet decided which domain or role they want to pursue. I also noticed that many juniors are not aware of the different career options available, so this project was selected to help them better understand and explore possible roles.
 
 #### Dataset Description
 
