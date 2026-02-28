@@ -29,3 +29,5 @@ The project works by connecting the cleaned dataset to tables and charts. When a
 #### Overall Outcome
 
 The project successfully identifies **high-demand job roles, salary patterns, and geographical job trends**. It shows that countries like the USA dominate job postings, roles such as Data Analyst and Data Scientist are highly demanded, and remote jobs often offer higher salaries. The project demonstrates how data analysis can be used to transform raw data into useful information for career planning and decision-making.
+
+#### You can refer to the report uploaded in the **Report** directory on my GitHub repository, where I have documented the insights gathered from the dataset. The analysis and key points discussed above are also included in the report.
