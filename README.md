@@ -4,7 +4,8 @@ This project focuses on analyzing the **global job market** to understand **sala
 
 #### Problem Statement
 
-The job market contains large amounts of scattered information about job roles, salaries, skills, and locations. It is difficult to identify **which jobs are in demand, which countries offer more opportunities, and which roles provide better salaries** without proper analysis. This project addresses this problem by organizing and analyzing job market data to extract useful insights.
+I chose this problem statement because many of my friends have not yet decided which domain or role they want to pursue. Also, many juniors are not aware of the different career options available, so this project was chosen to help them understand and explore possible roles.
+
 
 #### Dataset Description
 
