@@ -16,15 +16,15 @@ Before performing analysis, the dataset was cleaned and prepared to ensure accur
 
 #### Analysis Process
 
-The analysis was performed using Excel by organizing the dataset into structured tables and using formulas and pivot tables. Statistical measures such as **average and median salary** were calculated to understand salary distribution. Job counts were analyzed to identify the most demanded roles and countries. Salary comparisons were made between different roles and work types such as remote and non-remote jobs. Experience-level analysis was also performed to understand how salaries and opportunities change with experience.
+The analysis was performed using Excel by organizing the dataset into structured tables and using formulas and tables. Statistical measures such as **average and median salary** were calculated to understand salary distribution. Job counts were analyzed to identify the most demanded roles and countries. Salary comparisons were made between different roles and work types such as remote and non-remote jobs. Experience-level analysis was also performed to understand how salaries and opportunities change with experience.
 
 #### Dashboard Functionality
 
-An interactive dashboard was created to visualize the results of the analysis. The dashboard allows users to filter data based on different criteria such as job role, country, and experience level. Charts and maps automatically update when selections are changed, making it easier to explore the data. Key performance indicators such as total job count, median salary, and most-used job platforms are displayed to provide a quick summary.
+An interactive dashboard was created to visualize the results of the analysis. The dashboard allows users to filter data based on different criteria such as job role, country, and job schedule type. Charts and maps automatically update when selections are changed, making it easier to explore the data. Key performance indicators such as total job count, median salary, and most-used job platforms are displayed to provide a quick summary.
 
 #### How the Project Works
 
-The project works by connecting the cleaned dataset to pivot tables and charts. When a user selects a filter, Excel automatically updates the pivot tables and visualizations. This dynamic behavior allows users to analyze job market trends without manually recalculating values. The dashboard provides a simple way to understand complex data through visual representation.
+The project works by connecting the cleaned dataset to tables and charts. When a user selects a filter, Excel automatically updates the tables and visualizations. This dynamic behavior allows users to analyze job market trends without manually recalculating values. The dashboard provides a simple way to understand complex data through visual representation.
 
 #### Overall Outcome
 
