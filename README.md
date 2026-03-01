@@ -9,12 +9,11 @@ I chose this real-world problem statement after observing that many of my friend
 
 The dataset contains **32,673 job postings with 16 variables**, covering **111 countries and multiple job roles**. The dataset includes important fields such as job title, salary, country, skills required, job platform, and job schedule type. These variables were used to analyze job demand, salary distribution, and geographical trends.
 
-####Excel Skills Used
+#### Excel Skills Used
 The following Excel skills were utilized for analysis:
-
-📉 Charts
-🧮 Formulas and Functions
-❎ Data Validation
+  1. 📉 Charts
+  2. 🧮 Formulas and Functions
+  3. ❎ Data Validation
 #### Data Preparation and Cleaning
 
 Before performing analysis, the dataset was cleaned and prepared to ensure accurate results. Duplicate job listings were removed to avoid repeated values. Country names were standardized to maintain consistency across the dataset. Additional calculated columns such as job posting time and month were created to support time-based analysis. Data validation techniques were also applied to allow users to filter and explore the data dynamically.
