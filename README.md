@@ -1,7 +1,9 @@
+<u>Excel Salary Dashboard</u>
 
-This project focuses on analyzing the **global job market** to understand **salary trends, job demand, and required skills** across different countries and roles. The main purpose of the project is to convert raw job posting data into meaningful insights that can help job seekers and analysts understand which roles and locations offer better opportunities.
 <img width="1322" height="522" alt="Dashboard (1)" src="https://github.com/user-attachments/assets/53d149fb-6351-4767-b1f7-dbfaf5321f1f" />
 
+
+This project focuses on analyzing the **global job market** to understand **salary trends, job demand, and required skills** across different countries and roles. The main purpose of the project is to convert raw job posting data into meaningful insights that can help job seekers and analysts understand which roles and locations offer better opportunities.
 #### Problem Statement
 
 I chose this real-world problem statement after observing that many of my friends have not yet decided which domain or role they want to pursue. I also noticed that many juniors are not aware of the different career options available, so this project was selected to help them better understand and explore possible roles.
