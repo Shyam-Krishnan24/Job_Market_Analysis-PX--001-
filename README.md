@@ -1,5 +1,6 @@
 
 This project focuses on analyzing the **global job market** to understand **salary trends, job demand, and required skills** across different countries and roles. The main purpose of the project is to convert raw job posting data into meaningful insights that can help job seekers and analysts understand which roles and locations offer better opportunities.
+<img width="1322" height="522" alt="Dashboard (1)" src="https://github.com/user-attachments/assets/53d149fb-6351-4767-b1f7-dbfaf5321f1f" />
 
 #### Problem Statement
 
