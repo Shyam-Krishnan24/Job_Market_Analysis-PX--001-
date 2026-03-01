@@ -1,4 +1,4 @@
-### Project Overview – Job Market Analysis
+<img width="800" height="430" alt="image" src="https://github.com/user-attachments/assets/c6e02347-8ee8-4a9e-89d4-09b59daa92f4" />### Project Overview – Job Market Analysis
 
 This project focuses on analyzing the **global job market** to understand **salary trends, job demand, and required skills** across different countries and roles. The main purpose of the project is to convert raw job posting data into meaningful insights that can help job seekers and analysts understand which roles and locations offer better opportunities.
 
@@ -10,6 +10,12 @@ I chose this real-world problem statement after observing that many of my friend
 
 The dataset contains **32,673 job postings with 16 variables**, covering **111 countries and multiple job roles**. The dataset includes important fields such as job title, salary, country, skills required, job platform, and job schedule type. These variables were used to analyze job demand, salary distribution, and geographical trends.
 
+####Excel Skills Used
+The following Excel skills were utilized for analysis:
+
+📉 Charts
+🧮 Formulas and Functions
+❎ Data Validation
 #### Data Preparation and Cleaning
 
 Before performing analysis, the dataset was cleaned and prepared to ensure accurate results. Duplicate job listings were removed to avoid repeated values. Country names were standardized to maintain consistency across the dataset. Additional calculated columns such as job posting time and month were created to support time-based analysis. Data validation techniques were also applied to allow users to filter and explore the data dynamically.
