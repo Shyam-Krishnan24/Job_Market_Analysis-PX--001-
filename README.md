@@ -1,4 +1,3 @@
-<img width="800" height="430" alt="image" src="https://github.com/user-attachments/assets/c6e02347-8ee8-4a9e-89d4-09b59daa92f4" />### Project Overview – Job Market Analysis
 
 This project focuses on analyzing the **global job market** to understand **salary trends, job demand, and required skills** across different countries and roles. The main purpose of the project is to convert raw job posting data into meaningful insights that can help job seekers and analysts understand which roles and locations offer better opportunities.
 
